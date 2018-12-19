@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>hp.manoj.narahari</sys_created_by>
+        <sys_created_on>2018-08-28 10:05:51</sys_created_on>
+        <sys_id>73d7858cdb502f4054ac89584b9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_hpmms_prototying_table.x_hpmms_prototying.user</sys_name>
+        <sys_package display_value="Prototying" source="x_hpmms_prototying">1fd74508db502f4054ac89584b961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prototying">1fd74508db502f4054ac89584b961999</sys_scope>
+        <sys_security_acl display_value="x_hpmms_prototying_table">b7d7858cdb502f4054ac89584b9619ab</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_73d7858cdb502f4054ac89584b9619af</sys_update_name>
+        <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+        <sys_updated_on>2018-08-28 10:05:51</sys_updated_on>
+        <sys_user_role display_value="x_hpmms_prototying.user" name="x_hpmms_prototying.user">e3d7458cdb502f4054ac89584b961963</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

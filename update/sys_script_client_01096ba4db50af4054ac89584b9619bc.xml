@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>additional_details</field>
+        <global>true</global>
+        <messages/>
+        <name>OMS Madatory</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+	var OMSValue = g_form.getValue('oms');
+	if(OMSValue == 'false'){
+		alert("OMS is Mandaory for Prototyping Request. Please submit OMS before you proceed");
+		return false;
+	}
+	else{
+		return true;
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>hp.manoj.narahari</sys_created_by>
+        <sys_created_on>2018-08-30 11:09:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>01096ba4db50af4054ac89584b9619bc</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>OMS Madatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Prototying" source="x_hpmms_prototying">1fd74508db502f4054ac89584b961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prototying">1fd74508db502f4054ac89584b961999</sys_scope>
+        <sys_update_name>sys_script_client_01096ba4db50af4054ac89584b9619bc</sys_update_name>
+        <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+        <sys_updated_on>2018-08-31 08:22:50</sys_updated_on>
+        <table>x_hpmms_prototying_table</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

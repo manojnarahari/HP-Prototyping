@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="b2f7af0bdb14e38064cb5eea4b961975" sys_domain="global" table="x_hpmms_prototying_table" version="3" view="self_service">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>true</is_plain_text>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 05:27:09</sys_created_on>
+            <sys_id>faf7af0bdb14e38064cb5eea4b961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:27:09</sys_updated_on>
+            <text>Request Deatils</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>faf7af0bdb14e38064cb5eea4b961975</element>
+            <position>0</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 05:27:09</sys_created_on>
+            <sys_id>fef7af0bdb14e38064cb5eea4b961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hpmms_prototying_table" sys_domain="global" view="bef7af0bdb14e38064cb5eea4b961972">b2f7af0bdb14e38064cb5eea4b961975</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:27:09</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 05:27:09</sys_created_on>
+            <sys_id>72f7af0bdb14e38064cb5eea4b961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hpmms_prototying_table" sys_domain="global" view="bef7af0bdb14e38064cb5eea4b961972">b2f7af0bdb14e38064cb5eea4b961975</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:27:09</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 05:27:09</sys_created_on>
+            <sys_id>f2f7af0bdb14e38064cb5eea4b961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hpmms_prototying_table" sys_domain="global" view="bef7af0bdb14e38064cb5eea4b961972">b2f7af0bdb14e38064cb5eea4b961975</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:27:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>3</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 05:27:09</sys_created_on>
+            <sys_id>76f7af0bdb14e38064cb5eea4b961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hpmms_prototying_table" sys_domain="global" view="bef7af0bdb14e38064cb5eea4b961972">b2f7af0bdb14e38064cb5eea4b961975</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:27:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 05:27:09</sys_created_on>
+            <sys_id>f6f7af0bdb14e38064cb5eea4b961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hpmms_prototying_table" sys_domain="global" view="bef7af0bdb14e38064cb5eea4b961972">b2f7af0bdb14e38064cb5eea4b961975</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:27:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 05:27:09</sys_created_on>
+            <sys_id>7af7af0bdb14e38064cb5eea4b961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hpmms_prototying_table" sys_domain="global" view="bef7af0bdb14e38064cb5eea4b961972">b2f7af0bdb14e38064cb5eea4b961975</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:27:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 05:27:09</sys_created_on>
+            <sys_id>faf7af0bdb14e38064cb5eea4b961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hpmms_prototying_table" sys_domain="global" view="bef7af0bdb14e38064cb5eea4b961972">b2f7af0bdb14e38064cb5eea4b961975</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:27:09</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_hpmms_prototying_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 05:27:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2f7af0bdb14e38064cb5eea4b961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_hpmms_prototying_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Prototying" source="x_hpmms_prototying">1fd74508db502f4054ac89584b961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Prototying">1fd74508db502f4054ac89584b961999</sys_scope>
+            <sys_update_name>sys_ui_section_b2f7af0bdb14e38064cb5eea4b961975</sys_update_name>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 05:27:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self_service" name="self_service">bef7af0bdb14e38064cb5eea4b961972</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

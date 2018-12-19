@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_hpmms_prototying_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Submitted</label>
+            <language>en</language>
+            <name>x_hpmms_prototying_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 04:02:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c741f03db14e38064cb5eea4b961930</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 04:03:19</sys_updated_on>
+            <value>Submitted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in progress</label>
+            <language>en</language>
+            <name>x_hpmms_prototying_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 04:02:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39949303db14e38064cb5eea4b96193a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 04:03:28</sys_updated_on>
+            <value>Work in progress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Completed</label>
+            <language>en</language>
+            <name>x_hpmms_prototying_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 04:02:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ba49f03db14e38064cb5eea4b961969</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 04:03:33</sys_updated_on>
+            <value>Completed</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_hpmms_prototying_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-09-07 04:02:08</sys_created_on>
+            <sys_id>d5841f03db14e38064cb5eea4b961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Prototying" source="x_hpmms_prototying">1fd74508db502f4054ac89584b961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Prototying">1fd74508db502f4054ac89584b961999</sys_scope>
+            <sys_update_name>sys_choice_x_hpmms_prototying_table_state</sys_update_name>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-09-07 04:02:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

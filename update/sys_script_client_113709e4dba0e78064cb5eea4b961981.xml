@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>to</field>
+        <global>true</global>
+        <messages/>
+        <name>To should be greater than from date</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+	  return;
+   }
+	//var cDateO = new Date();
+	var datVal = g_form.getValue('from');
+	var toVal = g_form.getValue('to');
+	var dateEntered =new Date(Date.parse(datVal)).toISOString();
+	//var cDatet = new Date('dd-mm-yyyy');
+	var todayDate = new Date(Date.parse(toVal)).toISOString();
+	if(todayDate<dateEntered){
+		alert("To date should be greater than from date");
+		g_form.setValue('to',oldValue);	
+	}
+   //Type appropriate comment here, and begin script below
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>hp.manoj.narahari</sys_created_by>
+        <sys_created_on>2018-09-11 09:35:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>113709e4dba0e78064cb5eea4b961981</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>To should be greater than from date</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Prototying" source="x_hpmms_prototying">1fd74508db502f4054ac89584b961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prototying">1fd74508db502f4054ac89584b961999</sys_scope>
+        <sys_update_name>sys_script_client_113709e4dba0e78064cb5eea4b961981</sys_update_name>
+        <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+        <sys_updated_on>2018-09-11 09:37:25</sys_updated_on>
+        <table>x_hpmms_prototying_table</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

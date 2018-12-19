@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="e59d2f68db50af4054ac89584b961924" sys_domain="global" table="x_hpmms_prototying_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-08-30 11:26:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a19d2f68db50af4054ac89584b961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_hpmms_prototying_table" name="x_hpmms_prototying_table" sys_domain="global" view="Default view">e59d2f68db50af4054ac89584b961924</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_hpmms_prototying_table" sys_domain="global" view="Default view">ea490dccdb502f4054ac89584b961918</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-08-30 11:26:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-08-30 11:26:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e19d2f68db50af4054ac89584b961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_hpmms_prototying_table" name="x_hpmms_prototying_table" sys_domain="global" view="Default view">e59d2f68db50af4054ac89584b961924</sys_ui_form>
+            <sys_ui_section caption="Customer" display_value="Customer" name="x_hpmms_prototying_table" sys_domain="global" view="Default view">e99d2f68db50af4054ac89584b961925</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-08-30 11:26:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-08-30 11:30:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e8ee3e8db50af4054ac89584b9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_hpmms_prototying_table" name="x_hpmms_prototying_table" sys_domain="global" view="Default view">e59d2f68db50af4054ac89584b961924</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_hpmms_prototying_table" sys_domain="global" view="Default view">d68e6f68db50af4054ac89584b961984</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-08-30 11:30:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-08-30 11:32:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63cea7e8db50af4054ac89584b9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_hpmms_prototying_table" name="x_hpmms_prototying_table" sys_domain="global" view="Default view">e59d2f68db50af4054ac89584b961924</sys_ui_form>
+            <sys_ui_section caption="For Onboarding Manager" display_value="For Onboarding Manager" name="x_hpmms_prototying_table" sys_domain="global" view="Default view">23cea3e8db50af4054ac89584b96194f</sys_ui_section>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-08-30 11:32:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_hpmms_prototying_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-08-30 11:26:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e59d2f68db50af4054ac89584b961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_hpmms_prototying_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Prototying" source="x_hpmms_prototying">1fd74508db502f4054ac89584b961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Prototying">1fd74508db502f4054ac89584b961999</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e59d2f68db50af4054ac89584b961924</sys_update_name>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-08-30 11:26:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

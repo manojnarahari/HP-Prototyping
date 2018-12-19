@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Prototyping Request">695d41c0db902f4054ac89584b961903</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>hp.manoj.narahari</sys_created_by>
+        <sys_created_on>2018-08-28 10:30:19</sys_created_on>
+        <sys_id>5a7d09c0db902f4054ac89584b96192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Prototyping Request.SNC External</sys_name>
+        <sys_package display_value="Prototying" source="x_hpmms_prototying">1fd74508db502f4054ac89584b961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prototying">1fd74508db502f4054ac89584b961999</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_5a7d09c0db902f4054ac89584b96192d</sys_update_name>
+        <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+        <sys_updated_on>2018-08-28 10:30:19</sys_updated_on>
+        <user_criteria display_value="SNC External">07a5217edb52930054ac89584b9619f2</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>

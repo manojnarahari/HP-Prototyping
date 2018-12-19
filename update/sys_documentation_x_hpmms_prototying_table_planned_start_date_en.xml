@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="planned_start_date" label="Planned Start Date" language="en" table="x_hpmms_prototying_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>planned_start_date</element>
+            <help/>
+            <hint/>
+            <label>Planned Start Date</label>
+            <language>en</language>
+            <name>x_hpmms_prototying_table</name>
+            <plural>Planned Start Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>hp.manoj.narahari</sys_created_by>
+            <sys_created_on>2018-08-28 10:28:49</sys_created_on>
+            <sys_id>5c2d4d80db902f4054ac89584b961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Planned Start Date</sys_name>
+            <sys_package display_value="Prototying" source="x_hpmms_prototying">1fd74508db502f4054ac89584b961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Prototying">1fd74508db502f4054ac89584b961999</sys_scope>
+            <sys_update_name>sys_documentation_x_hpmms_prototying_table_planned_start_date_en</sys_update_name>
+            <sys_updated_by>hp.manoj.narahari</sys_updated_by>
+            <sys_updated_on>2018-08-28 10:28:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
